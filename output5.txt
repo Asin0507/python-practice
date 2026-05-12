@@ -1,0 +1,2 @@
+Enter the password length: 8
+your password 2z{^BPvN
