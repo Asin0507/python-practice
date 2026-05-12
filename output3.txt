@@ -1,0 +1,6 @@
+guess a number between 1 and 10:4
+too high!
+guess a number between 1 and 10:2
+too low!
+guess a number between 1 and 10:3
+correct
