@@ -1,0 +1,69 @@
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 1
+Enter task: learn python
+Task added!
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 1
+Enter task: study
+Task added!
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 1
+Enter task: phone time
+Task added!
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 1
+Enter task: drawing time
+Task added!
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 2
+
+Tasks:
+- learn python
+- study
+- phone time
+- drawing time
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 3
+Enter task to remove: phone time
+Task removed!
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 2
+
+Tasks:
+- learn python
+- study
+- drawing time
+
+1. Add Task
+2. View Tasks
+3. Remove Task
+4. Exit
+Choose an option: 4
+Goodbye!
